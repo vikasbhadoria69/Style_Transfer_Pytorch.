@@ -73,7 +73,12 @@ The target image has been itterated 9000 times through vgg19 mode in order to re
 ##### Output target image after 9000 itterations
 ![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/style_feature4.png)
 
-##### Final Output comparison
+##### Final Output comparison: 
+Below, the first image is the content image followed by style image and the final image is the
+output image.
+It can be seen how the final output image has been created using the content of the first
+image and style of the second.
+
 ![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/Style_image.png)
 
 
