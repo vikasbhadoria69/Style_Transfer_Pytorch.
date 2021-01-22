@@ -59,15 +59,19 @@ model network are not changed, but instead the input image is trained to minimiz
 ## Outputs
 
 The target image has been itterated 9000 times through vgg19 mode in order to reduce the loss and update the params and to get desired style transfer.
-Output target image after 1000 itterations:
+* Output target image after 1000 itterations:
 ![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/style_feature1.png)
-Output target image after 3000 itterations:
+
+* Output target image after 3000 itterations:
 ![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/style_feature2.png)
-Output target image after 6000 itterations:
+
+* Output target image after 6000 itterations:
 ![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/style_feature3.png)
-Output target image after 9000 itterations:
+
+* Output target image after 9000 itterations:
 ![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/style_feature4.png)
-Final Output comparison:
-![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/style_feature1.png)
+
+* Final Output comparison:
+![alt text](https://github.com/vikasbhadoria69/Style_Transfer_Pytorch./blob/master/Images/Style_image.png)
 
 
